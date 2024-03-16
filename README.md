@@ -10,7 +10,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/Thava-OX/count.svg" />
 </h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src=""> 
 
 <h2 align="center">
     ──「 𝆺𝅥𝗟𝝰𝝞𝝞𝝻 ✘ 𝗺𝝻𝞭𝝸𝙘𝆺𝅥 ᴠ2 」──
@@ -20,11 +20,11 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thava-OX&repo=ThavaXMusic&theme=flag-india)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src=""> 
 
 <p align="center"><a href="https://t.me/TBNBotsNetwork"><img src="https://telegra.ph/file/bfbb263bade7eb110e8aa.jpg"></a></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="">
 
 <h3 align="center">
     ─「 ❣ ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ❣ 」─
