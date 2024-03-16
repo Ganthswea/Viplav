@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h2 align="center">
-    ──「 ᴛʜᴀᴠᴀ ✘ ᴍᴜꜱɪᴄ ᴠ2 」──
+    ──「 𝆺𝅥𝗟𝝰𝝞𝝞𝝻 ✘ 𝗺𝝻𝞭𝝸𝙘𝆺𝅥 ᴠ2 」──
 
  𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 
 </h2>
