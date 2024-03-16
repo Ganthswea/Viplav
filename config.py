@@ -26,9 +26,9 @@ OWNER_ID = int(getenv("OWNER_ID", ""))
 
 START_STICKER_ID = getenv("START_STICKER_ID", "CAACAgUAAxkBAAIYJ2XDYrt9C1aT2TMAAVbvhu7GQt4pxQACOg4AAs7jGVZZ_1ODkCxOcx4E")
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Thava X Music")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "")
 
-POWERED_BY = getenv("POWERED_BY", "˹ 𝐓ʜᴀᴠᴀ ✘ 𝐌ᴜꜱɪᴄ ˼")
+POWERED_BY = getenv("POWERED_BY", "˹ 𝐌ᴜꜱɪᴄ ˼")
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
@@ -43,8 +43,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TBNBotsNetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TBNBotsNetworkSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/tamilchats_makkal")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/tamilchats_makkal")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", None))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
