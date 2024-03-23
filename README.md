@@ -22,7 +22,7 @@
 
 <img src=""> 
 
-<p align="center"><a href="https://t.me/TBNBotsNetwork"><img src="https://telegra.ph/file/bfbb263bade7eb110e8aa.jpg"></a></p>
+<p align="center"><a href="https://t.me/TBNBotsNetwork"><img src="https://telegra.ph/file/54998a4b688b5ce8926db.jpg"></a></p>
 
 <img src="">
 
